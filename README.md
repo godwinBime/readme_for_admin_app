@@ -1,5 +1,5 @@
 # readme_for_admin_app
-request for permission to the full private repository of the project found in th elink below
+request for permission to the full private repository of the project found in the link below
 ### https://github.com/godwinBime/admin_app
 
 Multi-factor authentication is the backbone of this mobile application. Users are encouraged to practice securing their mobile devices by following authentication best practices. Using Google authentication as a login alternative can be beneficial to both developers and users.
